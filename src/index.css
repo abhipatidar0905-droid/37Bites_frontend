@@ -1,3 +1,4 @@
+
 @import "tailwindcss";
 
 /* Hide scrollbar */
@@ -7,4 +8,15 @@
 .no-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+
+
+
+
+:root {
+  --color-primary: 0 119 182;      /* Ocean Blue */
+  --color-secondary: 249 115 22;   /* Sunset Orange */
+  --color-background: 241 250 252;
+  --color-text: 15 23 42;
 }
